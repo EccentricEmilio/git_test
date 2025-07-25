@@ -7,3 +7,5 @@ git push test with ipad network
 test config file
 
 test config file nr 2 after backup
+
+test nr 3 after name change to config 
