@@ -3,3 +3,5 @@ Hello World brysch!
 Commit message test brysch
 
 git push test with ipad network
+
+test config file
